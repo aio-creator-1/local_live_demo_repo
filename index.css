@@ -1,7 +1,14 @@
+*
+{
+    margin: auto;
+}
+body{
+    color: greenyellow;
+}
 table{
     color: yellow;
 }
 
-td{
+table td{
     color: aqua;
 }
